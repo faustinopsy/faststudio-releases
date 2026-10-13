@@ -1,0 +1,1 @@
+# faststudio-releases
